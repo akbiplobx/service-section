@@ -1,2 +1,2 @@
 # service-section
-https://akbiplobs.github.io/service-section/
+https://akbiplobx.github.io/service-section/
